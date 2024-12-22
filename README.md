@@ -12,18 +12,6 @@ Durante minha jornada, venho me aprofundando em diversas tecnologias e framework
 
 ---
 
-## 🎯 Objetivos e Aspirações
-
-Estou focado em me tornar um desenvolvedor fullstack capaz de criar tanto o front-end quanto o back-end de aplicações, garantindo a qualidade do código, performance e uma boa experiência para o usuário
-
----
-
-## 📚 Aprendizado Contínuo
-
-Acredito no **aprendizado contínuo**. Estou constantemente buscando cursos, tutoriais e materiais sobre novas tecnologias, boas práticas de desenvolvimento e soluções de problemas. Estou focado em expandir meus conhecimentos sobre as melhores ferramentas, padrões de design e metodologias ágeis para garantir que meu trabalho tenha qualidade e seja eficiente.
-
----
-
 ## 📬 Contato
 
 Estou sempre aberto a novas oportunidades e colaborações. Se você está interessado em trocar ideias ou discutir sobre desenvolvimento de software, não hesite em entrar em contato!
