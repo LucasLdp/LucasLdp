@@ -14,7 +14,7 @@ Durante minha jornada, venho me aprofundando em diversas tecnologias e framework
 
 ## 📬 Contato
 
-Estou sempre aberto a novas oportunidades e colaborações. Se você está interessado em trocar ideias ou discutir sobre desenvolvimento de software, não hesite em entrar em contato!
+Estou sempre aberto a novas oportunidades e colaborações.
 
 - [![Instagram](https://img.shields.io/badge/Instagram-%40lucaspgomes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaspgomes_)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Paulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-paulo-1772b729a/)
