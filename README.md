@@ -19,7 +19,6 @@ Estou sempre aberto a novas oportunidades e colaborações.
 - [![Instagram](https://img.shields.io/badge/Instagram-%40lucaspgomes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaspgomes_)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Paulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-paulo-1772b729a/)
 - [![Email](https://img.shields.io/badge/Email-lucasdepauloldp1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-- [![Portfólio](https://img.shields.io/badge/Portfolio-lucasgms.vercel.app-000000?style=for-the-badge&logo=github&logoColor=white)](https://lucasgms.vercel.app)
 
 ---
 
