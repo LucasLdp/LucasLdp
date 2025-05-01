@@ -2,13 +2,13 @@
 
 # Opa, eu sou o Lucas 😀
 
-Técnico em Desenvolvimento de Sistemas, acredito que a programação tem o poder de transformar ideias em produtos digitais que podem impactar positivamente a vida das pessoas. Estou constantemente aprimorando minhas habilidades técnicas e também me desenvolvendo pessoalmente, com o foco em me tornar um profissional completo.
+Técnico em Desenvolvimento de Sistemas e académico em Ciências da Computação, acredito que a programação tem o poder de transformar ideias que podem impactar positivamente a vida das pessoas. Estou constantemente aprimorando minhas habilidades técnicas, com o foco em me tornar um profissional completo.
 
 ---
 
 ## 🚀 Habilidades e Tecnologias
 
-Durante minha jornada, venho me aprofundando em diversas tecnologias e frameworks modernos. Tenho experiência com:
+Tenho experiência com:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,typescript,tailwind,docker,git,vue,nodejs,mysql,postgres,adonis,nest,express,adonis,styledcomponents)](https://skillicons.dev)
 
