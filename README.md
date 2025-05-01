@@ -2,7 +2,7 @@
 
 # Opa, eu sou o Lucas 😀
 
-Técnico em Desenvolvimento de Sistemas e académico em Ciências da Computação, acredito que a programação tem o poder de transformar ideias que podem impactar positivamente a vida das pessoas. Estou constantemente aprimorando minhas habilidades técnicas, com o foco em me tornar um profissional completo.
+Técnico em Desenvolvimento de Sistemas e acadêmico em Ciências da Computação, acredito que a programação tem o poder de transformar ideias que podem impactar positivamente a vida das pessoas. Estou constantemente aprimorando minhas habilidades técnicas, com o foco em me tornar um profissional completo.
 
 ---
 
