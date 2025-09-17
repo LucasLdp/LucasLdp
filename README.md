@@ -8,7 +8,7 @@ Técnico em Desenvolvimento de Sistemas e acadêmico em Ciências da Computaçã
 
 Tenho experiência com:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,typescript,tailwind,docker,git,vue,nodejs,mysql,postgres,adonis,nest,express,adonis,styledcomponents,python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,typescript,tailwind,docker,git,vue,nodejs,mysql,postgres,adonis,nest,express,adonis,python,django)](https://skillicons.dev)
 
 ---
 
